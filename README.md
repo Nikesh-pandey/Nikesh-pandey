@@ -2,7 +2,7 @@
 <h3 align="center">A passionate learner.</h3>
 <img align="right" alt="Coding" width="150" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikesh-pandey" alt="nikesh-pandey" /></a> </p>
+
 
 - 🌱 I’m currently learning **Html, Css, javascript, react**
 
