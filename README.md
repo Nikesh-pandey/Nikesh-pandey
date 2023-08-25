@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khildwhoj Pandey</h1>
 <h3 align="center">A passionate learner.</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/116207">
+<img align="right" alt="Coding" width="100" src="https://cdn.dribbble.com/users/116207">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikesh-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="nikesh-pandey" /> </p>
